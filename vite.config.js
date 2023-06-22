@@ -8,7 +8,7 @@ import Unfonts from "unplugin-fonts/vite";
 export default defineConfig({
   base: "/todo-app/",
   build: {
-    outDir: "docs",
+    outDir: "",
     assetsDir: "",
     assetsInlineLimit: 0,
   },
