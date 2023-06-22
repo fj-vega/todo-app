@@ -2,6 +2,11 @@
 
 This is a Todo List application built using React. It allows you to manage your tasks and keep track of your progress.
 
+*Note: this application needs access to localStorage*
+
+## Live Demo
+https://fj-vega.github.io/todo-app/
+
 ## Features
 
 - Display a list of tasks with their completion status.
