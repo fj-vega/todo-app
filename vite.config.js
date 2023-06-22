@@ -9,6 +9,8 @@ export default defineConfig({
   base: "/todo-app/",
   build: {
     outDir: "docs",
+    assetsDir: "",
+    assetsInlineLimit: 0,
   },
   plugins: [
     react(),
